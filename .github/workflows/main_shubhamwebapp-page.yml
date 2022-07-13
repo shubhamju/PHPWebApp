@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ShubhamWebapp-page'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1100B4C4483E4F2481ACE689D1E90D63 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAB0077CDB684F3A892A4C2E4D47897B }}
